@@ -1,12 +1,7 @@
 Rianna Washington
-Assignment 7
+Spring 2022
 
-Sources
-- Michela Marchini, my tutor, helped me problem solve and psuedocode.
+A guessing game where I implemented a binary Tree with answers to a quiz. In my specific example it is “Favorite Musical Artist ” and the user is prompted with questions in which they input “Y” or “N” in order to reach an artist that suits all of their interests.
+Utilized Java and Visual Studio Code
 
-Questions, Difficulties, bugs
-- GuessingGame works perfectly, UnrestrictedGuessingGame keeps 
-giving me an error message that I couldn't figure out, saying
-"Exception in thread "main" java.lang.NullPointerException: Cannot 
-invoke "GameTree.getRoot()" because "this.GuessingGameTree" is null"
 
